@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Only the latest version of projects are supported with security updates. No support is provided for issues on outdated versions.
+Only the latest version is supported with security updates. No support is provided for issues on outdated versions.
 
 ## Reporting a Vulnerability
 
